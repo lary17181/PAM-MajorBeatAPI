@@ -1,2 +1,2 @@
-# PAM-MajorBeatAPI
-Deploy da Api
+# PAM-MB-API
+API from MajorBeat App.
